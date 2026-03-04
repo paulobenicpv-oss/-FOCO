@@ -45,7 +45,7 @@ export const divisao = {
         "Leg Press – 4x10",
         "Cadeira Extensora – 3x12 (drop set na última)",
         "Mesa Flexora – 3x12",
-        "Afundo com Halter – 3x12",
+        "Cadeira Abdutora – 3x12 ou 3x15",
         "Panturrilha – 4x15",
       ],
     },
